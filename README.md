@@ -2,7 +2,7 @@
 
 ## Author: Candygao
 ## Data: 10th Oct 2024
-## Editor: WU
+## Editor: WU XIAOFENG
 
 This file is created in remote repository, at 3:42 pm.
 This line is added in local repository, at 3:57 pm.
